@@ -1,12 +1,13 @@
 use regex::Regex;
+use serde::{Serialize, Deserialize};
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SymbolInfo {
     pub section: String,
     pub name: String,
     pub address: u64,
     pub size: u64,
-    pub symbol_type: String, // "function" or "variable"
+    pub symbol_type: String,
 }
 
 pub fn parse_map_file(content: &str) -> Vec<SymbolInfo> {
@@ -24,7 +25,7 @@ pub fn parse_map_file(content: &str) -> Vec<SymbolInfo> {
                 section: current_section.clone(),
                 address: u64::from_str_radix(&cap[1], 16).unwrap_or(0),
                 name: cap[2].to_string(),
-                size: 0, // will compute later
+                size: 0,
                 symbol_type: if current_section == ".text" { "function".into() } else { "variable".into() },
             });
         }

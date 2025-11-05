@@ -1,6 +1,7 @@
 use crate::parser::SymbolInfo;
+use serde::{Serialize, Deserialize};
 
-#[derive(Debug)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct MemoryUsage {
     pub total_text: u64,
     pub total_data: u64,
@@ -9,8 +10,7 @@ pub struct MemoryUsage {
 }
 
 pub fn analyze_memory(symbols: &mut [SymbolInfo]) -> MemoryUsage {
-    // Compute sizes by taking difference between consecutive addresses
-    for i in 0..symbols.len() - 1 {
+    for i in 0..symbols.len().saturating_sub(1) {
         let next_addr = symbols[i + 1].address;
         symbols[i].size = next_addr.saturating_sub(symbols[i].address);
     }
@@ -22,7 +22,7 @@ pub fn analyze_memory(symbols: &mut [SymbolInfo]) -> MemoryUsage {
         symbols: symbols.to_vec(),
     };
 
-    for sym in &symbols[..symbols.len() - 1] {
+    for sym in &usage.symbols {
         match sym.section.as_str() {
             ".text" => usage.total_text += sym.size,
             ".data" => usage.total_data += sym.size,

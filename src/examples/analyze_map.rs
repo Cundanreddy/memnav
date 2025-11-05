@@ -1,4 +1,4 @@
-use memory_analyzer::{parse_map_file, analyze_memory, export_to_csv};
+use memnav::{parse_map_file, analyze_memory, export_to_csv};
 use std::fs;
 
 fn main() {

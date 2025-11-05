@@ -14,3 +14,10 @@ pub fn export_to_csv(usage: &MemoryUsage, filename: &str) -> std::io::Result<()>
     }
     Ok(())
 }
+
+pub fn export_to_json(usage: &MemoryUsage, filename: &str) -> std::io::Result<()> {
+    let json = serde_json::to_string_pretty(usage).unwrap();
+    let mut file = File::create(filename)?;
+    file.write_all(json.as_bytes())?;
+    Ok(())
+}
