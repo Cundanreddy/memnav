@@ -1,0 +1,6363 @@
+{
+  "total_text": 11274395096,
+  "total_data": 656,
+  "total_bss": 1100,
+  "symbols": [
+    {
+      "section": "",
+      "name": "_memmap_mem_srom_start",
+      "address": 1342177280,
+      "size": 4096,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_srom_end",
+      "address": 1342181376,
+      "size": 268431360,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sram_start",
+      "address": 1610612736,
+      "size": 472064,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sram_end",
+      "address": 1611084800,
+      "size": 539819008,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sramuc_start",
+      "address": 2150903808,
+      "size": 179200,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sramuc_end",
+      "address": 2151083008,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sramicc_start",
+      "address": 2147483648,
+      "size": 860160,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_mem_sramicc_end",
+      "address": 2148343808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom0_start",
+      "address": 1342177280,
+      "size": 736,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom0_max",
+      "address": 1342178016,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom1_start",
+      "address": 1342178016,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom1_max",
+      "address": 1342178064,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom2_start",
+      "address": 1342178064,
+      "size": 384,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom2_max",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom3_start",
+      "address": 1342178448,
+      "size": 2928,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom3_max",
+      "address": 1342181376,
+      "size": 268431360,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram0_start",
+      "address": 1610612736,
+      "size": 376,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram0_max",
+      "address": 1610613112,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram1_start",
+      "address": 1610613112,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram1_max",
+      "address": 1610613116,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram2_start",
+      "address": 1610613116,
+      "size": 28,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram2_max",
+      "address": 1610613144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram3_start",
+      "address": 1610613144,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram3_max",
+      "address": 1610613152,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram4_start",
+      "address": 1610613152,
+      "size": 56,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram4_max",
+      "address": 1610613208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram5_start",
+      "address": 1610613208,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram5_max",
+      "address": 1610613212,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram6_start",
+      "address": 1610613212,
+      "size": 28,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram6_max",
+      "address": 1610613240,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram7_start",
+      "address": 1610613240,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram7_max",
+      "address": 1610613244,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram8_start",
+      "address": 1610613244,
+      "size": 28,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram8_max",
+      "address": 1610613272,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram9_start",
+      "address": 1610613272,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram9_max",
+      "address": 1610613276,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram10_start",
+      "address": 1610613276,
+      "size": 28,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_sram10_max",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_KERNEL_CODE_DATA_start",
+      "address": 1610613304,
+      "size": 33792,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_KERNEL_CODE_DATA_max",
+      "address": 1610647096,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_CODE_start",
+      "address": 1610647096,
+      "size": 128000,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_CODE_max",
+      "address": 1610775096,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_DATA_start",
+      "address": 1610775096,
+      "size": 153600,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_DATA_max",
+      "address": 1610928696,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_INBITSTREAM_DATA_start",
+      "address": 1610928696,
+      "size": 49152,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_INBITSTREAM_DATA_max",
+      "address": 1610977848,
+      "size": 536505800,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_HOST_DATA_start",
+      "address": 2147483648,
+      "size": 40960,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_HOST_DATA_max",
+      "address": 2147524608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_DSP_DATA_start",
+      "address": 2147524608,
+      "size": 51200,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_DSP_DATA_max",
+      "address": 2147575808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_OUTPCM_DATA_start",
+      "address": 2147575808,
+      "size": 393216,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_OUTPCM_DATA_max",
+      "address": 2147969024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_METADATA_start",
+      "address": 2147969024,
+      "size": 323584,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_METADATA_max",
+      "address": 2148292608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_RESERVED_MEM_start",
+      "address": 2148292608,
+      "size": 51200,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_ICC_RESERVED_MEM_max",
+      "address": 2148343808,
+      "size": 2560000,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_UC_start",
+      "address": 2150903808,
+      "size": 32768,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_FRAMEWORK_UC_max",
+      "address": 2150936576,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_rom_store_table",
+      "address": 0,
+      "size": 148480,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wb_base",
+      "address": 148480,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wt_base",
+      "address": 135424,
+      "size": 4352,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_bp_base",
+      "address": 139776,
+      "size": 4293779199,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_unused_mask",
+      "address": 4293918975,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wb_trapnull",
+      "address": 572671023,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wba_trapnull",
+      "address": 572671023,
+      "size": 4352,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wbna_trapnull",
+      "address": 572675375,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wt_trapnull",
+      "address": 572657967,
+      "size": 4352,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_bp_trapnull",
+      "address": 572662319,
+      "size": 3721405136,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wb_strict",
+      "address": 4294067455,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wt_strict",
+      "address": 4294054399,
+      "size": 4352,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_bp_strict",
+      "address": 4294058751,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wb_allvalid",
+      "address": 572671010,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_wt_allvalid",
+      "address": 572657954,
+      "size": 4352,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_cacheattr_bp_allvalid",
+      "address": 572662306,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_region_map",
+      "address": 28,
+      "size": 572670995,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "PROVIDE",
+      "address": 572671023,
+      "size": 769506257,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0x12c",
+      "address": 1342177280,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetVector_text_start",
+      "address": 1342177280,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0x129",
+      "address": 1342177280,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetVector",
+      "address": 1342177280,
+      "size": 60,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetHandler",
+      "address": 1342177340,
+      "size": 240,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": ".",
+      "address": 1342177580,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetVector_text_end",
+      "address": 1342177580,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0x0",
+      "address": 1342177580,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetHandler_text_start",
+      "address": 1342177580,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": ".",
+      "address": 1342177580,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_ResetHandler_text_end",
+      "address": 1342177580,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom0_end",
+      "address": 1342177584,
+      "size": 432,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0x8",
+      "address": 1342178016,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_MemoryExceptionVector_literal_start",
+      "address": 1342178016,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0x8",
+      "address": 1342178016,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": ".",
+      "address": 1342178024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_MemoryExceptionVector_literal_end",
+      "address": 1342178024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom1_end",
+      "address": 1342178024,
+      "size": 40,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0xb0",
+      "address": 1342178064,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_MemoryExceptionVector_text_start",
+      "address": 1342178064,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "0xb0",
+      "address": 1342178064,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_MemErrorVector",
+      "address": 1342178064,
+      "size": 176,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": ".",
+      "address": 1342178240,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_MemoryExceptionVector_text_end",
+      "address": 1342178240,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": "",
+      "name": "_memmap_seg_srom2_end",
+      "address": 1342178240,
+      "size": 208,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.rodata",
+      "name": "_srom_rodata_start",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.rodata",
+      "name": ".",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.rodata",
+      "name": "_srom_rodata_end",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_srom_text_start",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_srom_text_end",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_srom3_end",
+      "address": 1342178448,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_mem_srom_max",
+      "address": 1342178448,
+      "size": 268434288,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x16c",
+      "address": 1610612736,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowVectors_text_start",
+      "address": 1610612736,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x16a",
+      "address": 1610612736,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowOverflow4",
+      "address": 1610612736,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_xtos_alloca_handler",
+      "address": 1610612752,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowUnderflow4",
+      "address": 1610612800,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowOverflow8",
+      "address": 1610612864,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowUnderflow8",
+      "address": 1610612928,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowOverflow12",
+      "address": 1610612992,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowUnderflow12",
+      "address": 1610613056,
+      "size": 44,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613100,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_WindowVectors_text_end",
+      "address": 1610613100,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram0_end",
+      "address": 1610613104,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x0",
+      "address": 1610613112,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_Level2InterruptVector_literal_start",
+      "address": 1610613112,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613112,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_Level2InterruptVector_literal_end",
+      "address": 1610613112,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram1_end",
+      "address": 1610613112,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x8",
+      "address": 1610613116,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_Level2InterruptVector_text_start",
+      "address": 1610613116,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x6",
+      "address": 1610613116,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_Level2Vector",
+      "address": 1610613116,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613124,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_Level2InterruptVector_text_end",
+      "address": 1610613124,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram2_end",
+      "address": 1610613128,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x0",
+      "address": 1610613144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DebugExceptionVector_literal_start",
+      "address": 1610613144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DebugExceptionVector_literal_end",
+      "address": 1610613144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram3_end",
+      "address": 1610613144,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0xc",
+      "address": 1610613152,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DebugExceptionVector_text_start",
+      "address": 1610613152,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0xb",
+      "address": 1610613152,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DebugExceptionVector",
+      "address": 1610613152,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613164,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DebugExceptionVector_text_end",
+      "address": 1610613164,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram4_end",
+      "address": 1610613168,
+      "size": 40,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x0",
+      "address": 1610613208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_KernelExceptionVector_literal_start",
+      "address": 1610613208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_KernelExceptionVector_literal_end",
+      "address": 1610613208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram5_end",
+      "address": 1610613208,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x8",
+      "address": 1610613212,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_KernelExceptionVector_text_start",
+      "address": 1610613212,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x6",
+      "address": 1610613212,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_KernelExceptionVector",
+      "address": 1610613212,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613220,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_KernelExceptionVector_text_end",
+      "address": 1610613220,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram6_end",
+      "address": 1610613224,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x4",
+      "address": 1610613240,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_UserExceptionVector_literal_start",
+      "address": 1610613240,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x4",
+      "address": 1610613240,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613244,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_UserExceptionVector_literal_end",
+      "address": 1610613244,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram7_end",
+      "address": 1610613248,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0xc",
+      "address": 1610613244,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_UserExceptionVector_text_start",
+      "address": 1610613244,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0xb",
+      "address": 1610613244,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_UserExceptionVector",
+      "address": 1610613244,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613256,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_UserExceptionVector_text_end",
+      "address": 1610613256,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram8_end",
+      "address": 1610613256,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x0",
+      "address": 1610613272,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DoubleExceptionVector_literal_start",
+      "address": 1610613272,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613272,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DoubleExceptionVector_literal_end",
+      "address": 1610613272,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram9_end",
+      "address": 1610613272,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x8",
+      "address": 1610613276,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DoubleExceptionVector_text_start",
+      "address": 1610613276,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "0x6",
+      "address": 1610613276,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DoubleExceptionVector",
+      "address": 1610613276,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": ".",
+      "address": 1610613284,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_DoubleExceptionVector_text_end",
+      "address": 1610613284,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".srom.text",
+      "name": "_memmap_seg_sram10_end",
+      "address": 1610613288,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.rodata",
+      "name": "_sram_rodata_start",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.rodata",
+      "name": ".",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.rodata",
+      "name": "_sram_rodata_end",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.rodata",
+      "name": "_clib_rodata_start",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.rodata",
+      "name": ".",
+      "address": 1610613304,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.rodata",
+      "name": "_clib_rodata_end",
+      "address": 1610613304,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.rodata",
+      "name": "_rtos_rodata_start",
+      "address": 1610613312,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.rodata",
+      "name": "Xthal_intlevel",
+      "address": 1610613312,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.rodata",
+      "name": ".",
+      "address": 1610613376,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.rodata",
+      "name": "_rtos_rodata_end",
+      "address": 1610613376,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata",
+      "name": "_rodata_start",
+      "address": 1610613376,
+      "size": 536,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata",
+      "name": "drv_irq_src_forceable",
+      "address": 1610613912,
+      "size": 312,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata",
+      "name": "0x32",
+      "address": 1610614224,
+      "size": 68,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata.cst16",
+      "name": "0x32",
+      "address": 1610614292,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata.cst16",
+      "name": "(size",
+      "address": 1,
+      "size": 1610614291,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rodata.cst16",
+      "name": "__XT_EXCEPTION_TABLE__",
+      "address": 1610614292,
+      "size": 20,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "__XT_EXCEPTION_DESCS__",
+      "address": 1610614312,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "__XT_EXCEPTION_DESCS_END__",
+      "address": 1610614312,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": ".",
+      "address": 1610614344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "_bss_table_start",
+      "address": 1610614312,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "0x4",
+      "address": 1610614312,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "0x4",
+      "address": 1610614316,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "0x4",
+      "address": 1610614320,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "0x4",
+      "address": 1610614324,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "_bss_table_end",
+      "address": 1610614328,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": ".",
+      "address": 1610614328,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".dtors",
+      "name": "_rodata_end",
+      "address": 1610614328,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.text",
+      "name": "_sram_text_start",
+      "address": 1610614328,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.text",
+      "name": ".",
+      "address": 1610614328,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.text",
+      "name": "_sram_text_end",
+      "address": 1610614328,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".text",
+      "name": "_stext",
+      "address": 1610614336,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_text_start",
+      "address": 1610614336,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 100,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 32,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 64,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 16,
+      "size": 124,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 140,
+      "size": 120,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 260,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 108,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 112,
+      "size": 364,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 476,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 136,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 28,
+      "size": 196,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 224,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 124,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 20,
+      "size": 1610614820,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "0x8",
+      "address": 1610614840,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 12,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal.exit",
+      "name": "(size",
+      "address": 28,
+      "size": 1610614832,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal.exit",
+      "name": "0xc",
+      "address": 1610614860,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 4,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 8,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 4,
+      "size": 40,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 44,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 28,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 8,
+      "size": 1610614924,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "0x14",
+      "address": 1610614932,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".literal",
+      "name": "(size",
+      "address": 48,
+      "size": 1610614916,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".init",
+      "name": "_init",
+      "address": 1610614964,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 205,
+      "size": 1610614787,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_start",
+      "address": 1610614992,
+      "size": 288,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "main",
+      "address": 1610615280,
+      "size": 624,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_vmem_VirtualtoPhysicalADD",
+      "address": 1610615904,
+      "size": 64,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_vmem_PhysicaltoVirtualADD",
+      "address": 1610615968,
+      "size": 64,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_init",
+      "address": 1610616032,
+      "size": 312,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_init_secondary",
+      "address": 1610616344,
+      "size": 92,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_RegisterCallback",
+      "address": 1610616436,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_DeregisterCallback",
+      "address": 1610616460,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_ChannelDisable",
+      "address": 1610616484,
+      "size": 80,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_TxSubmitDualCircBuff",
+      "address": 1610616564,
+      "size": 316,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_bufmgr_RxSubmitDualCircBuff",
+      "address": 1610616880,
+      "size": 316,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_config",
+      "address": 1610617196,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_i2srxclkenable",
+      "address": 1610617204,
+      "size": 120,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_i2stxclkenable",
+      "address": 1610617324,
+      "size": 200,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_config2",
+      "address": 1610617524,
+      "size": 80,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_hpdiv_config",
+      "address": 1610617604,
+      "size": 524,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_hpdiv_config_intmclk",
+      "address": 1610618128,
+      "size": 524,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_dfs_config",
+      "address": 1610618652,
+      "size": 316,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_evctr0_Enable",
+      "address": 1610618968,
+      "size": 88,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_evctr0_Enable2",
+      "address": 1610619056,
+      "size": 88,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_evctr0_ResultValid",
+      "address": 1610619144,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_evctr0_ClearValid",
+      "address": 1610619164,
+      "size": 28,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_evctr0_ReadResult",
+      "address": 1610619192,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_GenerateIntBclk",
+      "address": 1610619212,
+      "size": 116,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_SwitchToIntBclk",
+      "address": 1610619328,
+      "size": 52,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_clkrst_SwitchToExtBclk",
+      "address": 1610619380,
+      "size": 60,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_Open",
+      "address": 1610619440,
+      "size": 344,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_Close",
+      "address": 1610619784,
+      "size": 164,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_RegisterCallback",
+      "address": 1610619948,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_Enable",
+      "address": 1610619984,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_SetFormat",
+      "address": 1610620020,
+      "size": 416,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_SubmitDualCircBuff",
+      "address": 1610620436,
+      "size": 132,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_StopDMA",
+      "address": 1610620568,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2srx_ReadDMAStat",
+      "address": 1610620588,
+      "size": 84,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_Open",
+      "address": 1610620672,
+      "size": 320,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_Close",
+      "address": 1610620992,
+      "size": 168,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_RegisterCallback",
+      "address": 1610621160,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_Enable",
+      "address": 1610621196,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_SetFormat",
+      "address": 1610621232,
+      "size": 416,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_SubmitDualCircBuff",
+      "address": 1610621648,
+      "size": 156,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_StopDMA",
+      "address": 1610621804,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_i2stx_ReadDMAStat",
+      "address": 1610621824,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 2439,
+      "size": 1610619473,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_proc_init",
+      "address": 1610621912,
+      "size": 500,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_0",
+      "address": 1610622412,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_1",
+      "address": 1610622420,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_2",
+      "address": 1610622428,
+      "size": 32,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_3",
+      "address": 1610622460,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_4",
+      "address": 1610622468,
+      "size": 112,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_5",
+      "address": 1610622580,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_6",
+      "address": 1610622588,
+      "size": 128,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_7",
+      "address": 1610622716,
+      "size": 132,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_8",
+      "address": 1610622848,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_9",
+      "address": 1610622856,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_10",
+      "address": 1610622864,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_11",
+      "address": 1610622872,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_12",
+      "address": 1610622880,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_13",
+      "address": 1610622888,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_14",
+      "address": 1610622896,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_15",
+      "address": 1610622904,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_16",
+      "address": 1610622912,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_17",
+      "address": 1610622920,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_18",
+      "address": 1610622928,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_19",
+      "address": 1610622936,
+      "size": 124,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_20",
+      "address": 1610623060,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_21",
+      "address": 1610623068,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_22",
+      "address": 1610623076,
+      "size": 148,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_23",
+      "address": 1610623224,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_24",
+      "address": 1610623232,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_25",
+      "address": 1610623240,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_26",
+      "address": 1610623248,
+      "size": 112,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_27",
+      "address": 1610623360,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_28",
+      "address": 1610623368,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_29",
+      "address": 1610623376,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_30",
+      "address": 1610623384,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_handler_31",
+      "address": 1610623392,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_proc_enable",
+      "address": 1610623400,
+      "size": 12,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_proc_disable",
+      "address": 1610623412,
+      "size": 12,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_proc_clear",
+      "address": 1610623424,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_proc_set",
+      "address": 1610623444,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_src_is_valid",
+      "address": 1610623464,
+      "size": 76,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_init",
+      "address": 1610623540,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_dispatch",
+      "address": 1610623576,
+      "size": 40,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_enable",
+      "address": 1610623616,
+      "size": 88,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_disable",
+      "address": 1610623704,
+      "size": 100,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_disable_all",
+      "address": 1610623804,
+      "size": 52,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_clear",
+      "address": 1610623856,
+      "size": 168,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_set",
+      "address": 1610624024,
+      "size": 168,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_irq_register",
+      "address": 1610624192,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 958,
+      "size": 1610623266,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_MsgRepInit",
+      "address": 1610624224,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_MsgRepCleanShMem",
+      "address": 1610624248,
+      "size": 40,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_MsgRepIntEnable",
+      "address": 1610624288,
+      "size": 412,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_RegisterMsgRepCallback",
+      "address": 1610624700,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SendMsg",
+      "address": 1610624724,
+      "size": 64,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SendRep",
+      "address": 1610624788,
+      "size": 120,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SendMsgInt",
+      "address": 1610624908,
+      "size": 44,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SendRepInt",
+      "address": 1610624952,
+      "size": 108,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SYNCSet",
+      "address": 1610625060,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SYNCClr",
+      "address": 1610625084,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SYNCWrite",
+      "address": 1610625108,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_mutex_SYNCRead",
+      "address": 1610625132,
+      "size": 28,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_config",
+      "address": 1610625160,
+      "size": 224,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_config_bt_slave",
+      "address": 1610625384,
+      "size": 256,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_MCLKOutEnable",
+      "address": 1610625640,
+      "size": 28,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_IFSEN",
+      "address": 1610625668,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_OFSEN",
+      "address": 1610625704,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_IFSEN_bt",
+      "address": 1610625740,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_padcfg_InOutEnable",
+      "address": 1610625776,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 3916,
+      "size": 1610621952,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_config",
+      "address": 1610625868,
+      "size": 656,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_config2",
+      "address": 1610626524,
+      "size": 728,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_config_bt_slave",
+      "address": 1610627252,
+      "size": 544,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_config_adc",
+      "address": 1610627796,
+      "size": 556,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_iclkconnect",
+      "address": 1610628352,
+      "size": 148,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_iclkconnect_bt",
+      "address": 1610628500,
+      "size": 48,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_oclkconnect",
+      "address": 1610628548,
+      "size": 132,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_ifsconnect",
+      "address": 1610628680,
+      "size": 148,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_ifsconnect_bt",
+      "address": 1610628828,
+      "size": 48,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_ofsconnect",
+      "address": 1610628876,
+      "size": 116,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_ifslevel",
+      "address": 1610628992,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_ofslevel",
+      "address": 1610629012,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_EnableIFSInt",
+      "address": 1610629032,
+      "size": 100,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_EnableIFSInt_bt",
+      "address": 1610629132,
+      "size": 76,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_DisableIFSInt",
+      "address": 1610629208,
+      "size": 12,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_EnableOFSInt",
+      "address": 1610629220,
+      "size": 108,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_DisableOFSInt",
+      "address": 1610629328,
+      "size": 12,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_SPIFlashCfg",
+      "address": 1610629340,
+      "size": 208,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pinmux_XIPFlashCfg",
+      "address": 1610629548,
+      "size": 228,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config",
+      "address": 1610629776,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config2",
+      "address": 1610630132,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config3",
+      "address": 1610630488,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config4",
+      "address": 1610630844,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config5",
+      "address": 1610631200,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_config6",
+      "address": 1610631556,
+      "size": 356,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_pll_CPUClockSel",
+      "address": 1610631912,
+      "size": 40,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_frt_Init",
+      "address": 1610631952,
+      "size": 48,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_frt_Start",
+      "address": 1610632000,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_frt_Pause",
+      "address": 1610632020,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_frt_Clear",
+      "address": 1610632040,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "drv_frt_Read",
+      "address": 1610632060,
+      "size": 24,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "0x1b",
+      "address": 1610632084,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 30,
+      "size": 1610632054,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "__clibrary_init",
+      "address": 1610632084,
+      "size": 28,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text.exit",
+      "name": "exit",
+      "address": 1610632112,
+      "size": 120,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".text.exit",
+      "name": "0x18",
+      "address": 1610632232,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".text.exit",
+      "name": "_init_reent_bss",
+      "address": 1610632232,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 12,
+      "size": 1610632244,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_Exit",
+      "address": 1610632256,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_interrupt_enable",
+      "address": 1610632264,
+      "size": 60,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_interrupt_disable",
+      "address": 1610632324,
+      "size": 60,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_set_interrupt_handler",
+      "address": 1610632384,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "(size",
+      "address": 32,
+      "size": 1610632436,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_exit",
+      "address": 1610632468,
+      "size": 32,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_UserExceptionFromVector",
+      "address": 1610632500,
+      "size": 20,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_xtos_l1int_handler",
+      "address": 1610632520,
+      "size": 30,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_LevelOneInterrupt",
+      "address": 1610632550,
+      "size": 222,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_Level2FromVector",
+      "address": 1610632772,
+      "size": 296,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_xtos_syscall_handler",
+      "address": 1610633068,
+      "size": 63,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_SyscallException",
+      "address": 1610633131,
+      "size": 49,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "0x141",
+      "address": 1610633180,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_MemErrorHandler",
+      "address": 1610633180,
+      "size": 324,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xthal_set_cache_prefetch_long",
+      "address": 1610633504,
+      "size": 96,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "memcmp",
+      "address": 1610633600,
+      "size": 128,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "memcpy",
+      "address": 1610633728,
+      "size": 344,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "memset",
+      "address": 1610634072,
+      "size": 84,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "board_init",
+      "address": 1610634156,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_unhandled_interrupt",
+      "address": 1610634164,
+      "size": 8,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_cause3_handler",
+      "address": 1610634172,
+      "size": 0,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xtos_unhandled_exception",
+      "address": 1610634172,
+      "size": 16,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "_xtos_return_from_exc",
+      "address": 1610634188,
+      "size": 36,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xthal_dcache_all_writeback",
+      "address": 1610634224,
+      "size": 32,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xthal_dcache_region_writeback",
+      "address": 1610634256,
+      "size": 32,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".text",
+      "name": "xthal_dcache_region_writeback_inv",
+      "address": 1610634288,
+      "size": 28,
+      "symbol_type": "function"
+    },
+    {
+      "section": ".fini",
+      "name": "_fini",
+      "address": 1610634316,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".fini",
+      "name": ".",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".fini",
+      "name": "_text_end",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".fini",
+      "name": "_etext",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".fini",
+      "name": "0x0",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".fini",
+      "name": "0x0",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.text",
+      "name": "_clib_text_start",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.text",
+      "name": ".",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.text",
+      "name": "_clib_text_end",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.text",
+      "name": "_rtos_text_start",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.text",
+      "name": ".",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.text",
+      "name": "_rtos_text_end",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_clib_data_start",
+      "address": 1610634332,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_Nats",
+      "address": 1610634332,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_Atcount",
+      "address": 1610634336,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "environ",
+      "address": 1610634340,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": ".",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_clib_data_end",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_clib_percpu_data_start",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": ".",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_clib_percpu_data_end",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x314",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_rtos_percpu_data_start",
+      "address": 1610634344,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x4",
+      "address": 1610634344,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634348,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x208",
+      "address": 1610634352,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_xtos_intstruct",
+      "address": 1610634352,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "xtos_enabled",
+      "address": 1610634352,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "xtos_vpri_enabled",
+      "address": 1610634356,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "xtos_interrupt_table",
+      "address": 1610634360,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "xtos_interrupt_mask_table",
+      "address": 1610634616,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610634872,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x100",
+      "address": 1610634872,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "xtos_exc_handler_table",
+      "address": 1610634872,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635128,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635128,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635128,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x4",
+      "address": 1610635128,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_Pri_2_HandlerAddress",
+      "address": 1610635128,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "0x0",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": ".",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.data",
+      "name": "_rtos_percpu_data_end",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.data",
+      "name": "_rtos_data_start",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.data",
+      "name": ".",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.data",
+      "name": "_rtos_data_end",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.data",
+      "name": "_sram_data_start",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.data",
+      "name": ".",
+      "address": 1610635132,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sram.data",
+      "name": "_sram_data_end",
+      "address": 1610635132,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "_data_start",
+      "address": 1610635136,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "_start_argc",
+      "address": 1610635136,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "_start_argv",
+      "address": 1610635140,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "_start_envp",
+      "address": 1610635144,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "__dso_handle",
+      "address": 1610635148,
+      "size": 36,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_VMEMTableHIFI0",
+      "address": 1610635184,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_VMEMTableHIFI1",
+      "address": 1610635248,
+      "size": 64,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_VMEMTableHIFI2",
+      "address": 1610635312,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_VMEMTableMCU1",
+      "address": 1610635360,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pBUFMGRTable",
+      "address": 1610635408,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pCLKRSTTable",
+      "address": 1610635412,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_I2SRXDevices",
+      "address": 1610635424,
+      "size": 144,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_I2STXDevices",
+      "address": 1610635568,
+      "size": 144,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pIRQHIFI1Regs",
+      "address": 1610635712,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pIRQHIFI2Regs",
+      "address": 1610635716,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pIRQMCU0Regs",
+      "address": 1610635720,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pIRQMCU1Regs",
+      "address": 1610635724,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pEVCTR0Table",
+      "address": 1610635728,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pEVCTR1Table",
+      "address": 1610635732,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pEVMGRRegs",
+      "address": 1610635736,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pIRQHIFI0Regs",
+      "address": 1610635740,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_MUTEXMsgRepInfo",
+      "address": 1610635744,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pPADCFGTable",
+      "address": 1610635756,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pPINMUXTable",
+      "address": 1610635760,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pPLLRegs",
+      "address": 1610635764,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pPLLDIGRegs",
+      "address": 1610635768,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_REFCLKRegs",
+      "address": 1610635772,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "g_pFRTTable",
+      "address": 1610635776,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": ".",
+      "address": 1610635780,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".data",
+      "name": "_data_end",
+      "address": 1610635780,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg2",
+      "address": 1610635792,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg3",
+      "address": 1610635824,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg4",
+      "address": 1610635840,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg5",
+      "address": 1610635856,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg6",
+      "address": 1610635872,
+      "size": 28,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "status_flag",
+      "address": 1610635900,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "stream_change_flag",
+      "address": 1610635904,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "temp_status",
+      "address": 1610635908,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "pstatus",
+      "address": 1610635912,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "MCU_Ready",
+      "address": 1610635916,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "pPDst_HIFI0_Command",
+      "address": 1610635920,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "pPDst_HIFI0_Status",
+      "address": 1610635924,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "bMCU1MsgRcvd",
+      "address": 1610635928,
+      "size": 1,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "bMCU1RepRcvd",
+      "address": 1610635929,
+      "size": 7,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "msg1",
+      "address": 1610635936,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "0x0",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "__llvm_prf_names_start",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": ".",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "__llvm_prf_names_end",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "0x0",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "_note_gnu_build-id_start",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": ".",
+      "address": 1610635944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.data",
+      "name": "_note_gnu_build-id_end",
+      "address": 1610635944,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": ".",
+      "address": 1610635952,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "_bss_start",
+      "address": 1610635952,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "au_result",
+      "address": 1610635952,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2SRX0Handle",
+      "address": 1610635968,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2SRX8Handle",
+      "address": 1610635972,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2SRX8DeviceMEM",
+      "address": 1610635984,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2SRX1Handle",
+      "address": 1610635996,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2SRX2Handle",
+      "address": 1610636000,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX2Handle",
+      "address": 1610636004,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX3Handle",
+      "address": 1610636008,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX4Handle",
+      "address": 1610636012,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX6Handle",
+      "address": 1610636016,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX6DeviceMEM",
+      "address": 1610636032,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX7Handle",
+      "address": 1610636044,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "I2STX8Handle",
+      "address": 1610636048,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "bIFSPadEnabled",
+      "address": 1610636052,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "IFSIntCnt",
+      "address": 1610636056,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "g_pBUFMGRChMaintTable",
+      "address": 1610636064,
+      "size": 80,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "g_BUFMGRChInfo",
+      "address": 1610636144,
+      "size": 160,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "g_irq_table",
+      "address": 1610636304,
+      "size": 708,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "g_pCurrIRQReg",
+      "address": 1610637012,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "g_PadsIntInfo",
+      "address": 1610637024,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".bss",
+      "name": "_MemErrorSave",
+      "address": 1610637040,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "__progname",
+      "address": 1610637052,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "_Atcount0",
+      "address": 1610637056,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "_atexitfns",
+      "address": 1610637060,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "_atexitfree",
+      "address": 1610637064,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0xfc",
+      "address": 1610637072,
+      "size": 248,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "_reent_ptr",
+      "address": 1610637320,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610637324,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x54c",
+      "address": 1610637328,
+      "size": 1356,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610638684,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610638684,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610638684,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".clib.bss",
+      "name": "0x0",
+      "address": 1610638684,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.bss",
+      "name": ".",
+      "address": 1610638688,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.bss",
+      "name": "_bss_end",
+      "address": 1610638688,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".rtos.bss",
+      "name": "_memmap_seg_KERNEL_CODE_DATA_end",
+      "address": 1610638688,
+      "size": 8416,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "_Host_text_start",
+      "address": 1610647104,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.literal",
+      "name": "(size",
+      "address": 200,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.literal",
+      "name": "(size",
+      "address": 72,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.literal",
+      "name": "(size",
+      "address": 52,
+      "size": 1610647148,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_stateinfo_comparison",
+      "address": 1610647200,
+      "size": 292,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_controlword_process",
+      "address": 1610647492,
+      "size": 688,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_stateinfo_update",
+      "address": 1610648180,
+      "size": 212,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "input_config",
+      "address": 1610648392,
+      "size": 200,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_controlword_process_core1",
+      "address": 1610648592,
+      "size": 100,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_controlword_process_core2",
+      "address": 1610648692,
+      "size": 100,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "au_stateinfo_compare",
+      "address": 1610648792,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "(size",
+      "address": 168,
+      "size": 1610648860,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "MutexMsgRepCallback",
+      "address": 1610649028,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "(size",
+      "address": 95,
+      "size": 1610649085,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "configure_mutex",
+      "address": 1610649180,
+      "size": 60,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "enable_mutex",
+      "address": 1610649240,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": ".",
+      "address": 1610649256,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Host.text",
+      "name": "_Host_text_end",
+      "address": 1610649256,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "_Isr_text_start",
+      "address": 1610649256,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.literal",
+      "name": "(size",
+      "address": 136,
+      "size": 447,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 583,
+      "size": 1610648701,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "I2SRX0Callback",
+      "address": 1610649284,
+      "size": 220,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "I2STX2Callback",
+      "address": 1610649504,
+      "size": 304,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": ".",
+      "address": 1610649808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "_Isr_text_end",
+      "address": 1610649808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x1c60",
+      "address": 1610649808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "_Framework_text_start",
+      "address": 1610649808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x4",
+      "address": 1610649808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 8,
+      "size": 1610649804,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x18",
+      "address": 1610649812,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 128,
+      "size": 1610649708,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x8",
+      "address": 1610649836,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 24,
+      "size": 1610649820,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x8",
+      "address": 1610649844,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 32,
+      "size": 1610649820,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x0",
+      "address": 1610649852,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 28,
+      "size": 1610649824,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x4",
+      "address": 1610649852,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 36,
+      "size": 1610649820,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0xd4",
+      "address": 1610649856,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 948,
+      "size": 1610649120,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x38",
+      "address": 1610650068,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 59,
+      "size": 1610650009,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_postprocess",
+      "address": 1610650068,
+      "size": 60,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x95f",
+      "address": 1610650128,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "audioprocess",
+      "address": 1610650128,
+      "size": 248,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_memallocation",
+      "address": 1610650376,
+      "size": 356,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_resetsystemvariables",
+      "address": 1610650732,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "mpcmprocess",
+      "address": 1610650764,
+      "size": 1008,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_reset_buf",
+      "address": 1610651772,
+      "size": 104,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "isinbitstreamavailable",
+      "address": 1610651876,
+      "size": 44,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "isoutpcmbufavailable",
+      "address": 1610651920,
+      "size": 56,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_inbitstreambuf2processingbuf",
+      "address": 1610651976,
+      "size": 40,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_ptr_update",
+      "address": 1610652016,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_processingbuf2outpcmbuf",
+      "address": 1610652064,
+      "size": 144,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "routing_12_channel",
+      "address": 1610652208,
+      "size": 92,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "iccdata_sendc0toc1",
+      "address": 1610652300,
+      "size": 92,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_resetmemallocation",
+      "address": 1610652392,
+      "size": 104,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_resetsysetemvariables_fs",
+      "address": 1610652496,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x19a",
+      "address": 1610652528,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_frameworkinit",
+      "address": 1610652528,
+      "size": 416,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x275",
+      "address": 1610652944,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "isr_receiver",
+      "address": 1610652944,
+      "size": 368,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "rx_intermediate_copy",
+      "address": 1610653312,
+      "size": 272,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x506",
+      "address": 1610653584,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "isr_transmit",
+      "address": 1610653584,
+      "size": 412,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "tx_copy_zeros_dma",
+      "address": 1610653996,
+      "size": 104,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_outpcmbuf2txdmabuf",
+      "address": 1610654100,
+      "size": 728,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "tx_kernel_variable_reinit",
+      "address": 1610654828,
+      "size": 44,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x179",
+      "address": 1610654872,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 385,
+      "size": 1610654487,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "customerpostprocess",
+      "address": 1610654872,
+      "size": 184,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "customerpp_param_list",
+      "address": 1610655056,
+      "size": 100,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_processingbuf2customerppbuf",
+      "address": 1610655156,
+      "size": 44,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_customerppbuf2processingbuf",
+      "address": 1610655200,
+      "size": 44,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "customerpp",
+      "address": 1610655244,
+      "size": 8,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x5ed",
+      "address": 1610655252,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "(size",
+      "address": 1929,
+      "size": 1610653323,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_targetHWinit",
+      "address": 1610655252,
+      "size": 432,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "configure_i2srx_ports",
+      "address": 1610655684,
+      "size": 232,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "configure_i2stx_ports",
+      "address": 1610655916,
+      "size": 328,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "IFSIntCallback",
+      "address": 1610656244,
+      "size": 56,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "clock_config",
+      "address": 1610656300,
+      "size": 84,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "ports_reconfig",
+      "address": 1610656384,
+      "size": 56,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "stop_i2s",
+      "address": 1610656440,
+      "size": 152,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "re_enable_i2s",
+      "address": 1610656592,
+      "size": 180,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x0",
+      "address": 1610656772,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "0x120",
+      "address": 1610656784,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "au_write_data_to_buf",
+      "address": 1610656784,
+      "size": 288,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": ".",
+      "address": 1610657072,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "_Framework_text_end",
+      "address": 1610657072,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.text",
+      "name": "_memmap_seg_FRAMEWORK_CODE_end",
+      "address": 1610657072,
+      "size": 118480,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Isr_data_start",
+      "address": 1610775552,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX8Buff1",
+      "address": 1610775552,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0DeviceMEM",
+      "address": 1610775808,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX1DeviceMEM",
+      "address": 1610775824,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX2DeviceMEM",
+      "address": 1610775840,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2DeviceMEM",
+      "address": 1610775856,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX3DeviceMEM",
+      "address": 1610775872,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX4DeviceMEM",
+      "address": 1610775888,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX7DeviceMEM",
+      "address": 1610775904,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX8DeviceMEM",
+      "address": 1610775920,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "command_receive_buffer",
+      "address": 1610775936,
+      "size": 6784,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0Buff0",
+      "address": 1610782720,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX8Buff0",
+      "address": 1610783744,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX1Buff0",
+      "address": 1610784768,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0Buff0Cnt",
+      "address": 1610785024,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0Buff1Cnt",
+      "address": 1610785028,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0Cnt",
+      "address": 1610785032,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2Buff0Cnt",
+      "address": 1610785036,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2Buff1Cnt",
+      "address": 1610785040,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2Cnt",
+      "address": 1610785044,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "BlockRcvd0",
+      "address": 1610785048,
+      "size": 1,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "BlockSent2",
+      "address": 1610785049,
+      "size": 743,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX2Buff0",
+      "address": 1610785792,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX0Buff1",
+      "address": 1610786816,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX8Buff1",
+      "address": 1610787840,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX1Buff1",
+      "address": 1610788864,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2SRX2Buff1",
+      "address": 1610789888,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2Buff0",
+      "address": 1610790912,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX6Buff0",
+      "address": 1610791936,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX3Buff0",
+      "address": 1610792960,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX4Buff0",
+      "address": 1610793984,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX7Buff0",
+      "address": 1610795008,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX8Buff0",
+      "address": 1610796032,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX2Buff1",
+      "address": 1610797056,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX6Buff1",
+      "address": 1610798080,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX3Buff1",
+      "address": 1610799104,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX4Buff1",
+      "address": 1610800128,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "I2STX7Buff1",
+      "address": 1610801152,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": ".",
+      "address": 1610801408,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Isr_data_end",
+      "address": 1610801408,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x6718",
+      "address": 1610801408,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Framework_data_start",
+      "address": 1610801408,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x2dc",
+      "address": 1610801408,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "p_core0",
+      "address": 1610801408,
+      "size": 736,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x3020",
+      "address": 1610802144,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "channel_routing",
+      "address": 1610802144,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "core0_sync_bit",
+      "address": 1610802148,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "c0_processingbuf",
+      "address": 1610802160,
+      "size": 12288,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "AudioFormatDetectValue_Save",
+      "address": 1610814448,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "core1_sync_start",
+      "address": 1610814452,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "core2_sync_start",
+      "address": 1610814456,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "au_status",
+      "address": 1610814460,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x410",
+      "address": 1610814464,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "formatdetectInBuf_Cnt",
+      "address": 1610814464,
+      "size": 16,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "formatdetectInBuf",
+      "address": 1610814480,
+      "size": 1024,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x3000",
+      "address": 1610815504,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "customerppbuf",
+      "address": 1610815504,
+      "size": 12288,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x8",
+      "address": 1610827792,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "set_clkdiv",
+      "address": 1610827792,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "set_fsdiv",
+      "address": 1610827796,
+      "size": 4,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": ".",
+      "address": 1610827800,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Framework_data_end",
+      "address": 1610827800,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_memmap_seg_FRAMEWORK_DATA_end",
+      "address": 1610827800,
+      "size": 100904,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x4000",
+      "address": 1610928704,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Inbitstream_data_start",
+      "address": 1610928704,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "0x4000",
+      "address": 1610928704,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "inbitstreambuf",
+      "address": 1610928704,
+      "size": 16384,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": ".",
+      "address": 1610945088,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_Inbitstream_data_end",
+      "address": 1610945088,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_memmap_seg_INBITSTREAM_DATA_end",
+      "address": 1610945088,
+      "size": 43000,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_end",
+      "address": 1610988088,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_stack_sentry",
+      "address": 1610988088,
+      "size": 10232,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "PROVIDE",
+      "address": 1610998320,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_heap_sentry",
+      "address": 1610998320,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Isr.data",
+      "name": "_memmap_mem_sram_max",
+      "address": 1610945088,
+      "size": 536538560,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "_Icc_host_data_start",
+      "address": 2147483648,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "0x1a78",
+      "address": 2147483648,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "cmdbuff",
+      "address": 2147483648,
+      "size": 256,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "hifi0_command_buff",
+      "address": 2147483904,
+      "size": 6400,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "hifi0_status_buff",
+      "address": 2147490304,
+      "size": 120,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": ".",
+      "address": 2147490424,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "_Icc_host_data_end",
+      "address": 2147490424,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_host.data",
+      "name": "_memmap_seg_ICC_HOST_DATA_end",
+      "address": 2147490424,
+      "size": 34184,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_dsp_data_start",
+      "address": 2147524608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "p_icc",
+      "address": 2147524608,
+      "size": 568,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": ".",
+      "address": 2147525176,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_dsp_data_end",
+      "address": 2147525176,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_memmap_seg_ICC_DSP_DATA_end",
+      "address": 2147525176,
+      "size": 50632,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "0xc000",
+      "address": 2147575808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_outpcm_data_start",
+      "address": 2147575808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "0xc000",
+      "address": 2147575808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "outpcmbuf",
+      "address": 2147575808,
+      "size": 49152,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": ".",
+      "address": 2147624960,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_outpcm_data_end",
+      "address": 2147624960,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_memmap_seg_ICC_OUTPCM_DATA_end",
+      "address": 2147624960,
+      "size": 344064,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "0x0",
+      "address": 2147969024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_metadata_data_start",
+      "address": 2147969024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": ".",
+      "address": 2147969024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_Icc_metadata_data_end",
+      "address": 2147969024,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".Icc_dsp.data",
+      "name": "_memmap_seg_ICC_METADATA_end",
+      "address": 2147969024,
+      "size": 323584,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramicc.fixed",
+      "name": "_sramicc_fixed_start",
+      "address": 2148292608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramicc.fixed",
+      "name": ".",
+      "address": 2148292608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramicc.fixed",
+      "name": "_sramicc_fixed_end",
+      "address": 2148292608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramicc.fixed",
+      "name": "_memmap_seg_ICC_RESERVED_MEM_end",
+      "address": 2148292608,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramicc.fixed",
+      "name": "_memmap_mem_sramicc_max",
+      "address": 2148292608,
+      "size": 2611200,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.data",
+      "name": "_sramuc_data_start",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.data",
+      "name": ".",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.data",
+      "name": "_sramuc_data_end",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": ".",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": "_sramuc_bss_start",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": ".",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": "_sramuc_bss_end",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": "_memmap_seg_FRAMEWORK_UC_end",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".sramuc.bss",
+      "name": "_memmap_mem_sramuc_max",
+      "address": 2150903808,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 0,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 32,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 64,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 96,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 128,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 160,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 192,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 224,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 256,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 288,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x28",
+      "address": 320,
+      "size": 40,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 360,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 392,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 424,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 456,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 488,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 520,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 552,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 584,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 616,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 648,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 680,
+      "size": 32,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_aranges",
+      "name": "0x20",
+      "address": 712,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 413,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 315,
+      "size": 3783,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 4098,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 3597,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 1923,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 485,
+      "size": 76,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 561,
+      "size": 2518,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 3079,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 2562,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 686,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 280,
+      "size": 29,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 309,
+      "size": 35,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 344,
+      "size": 232,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 576,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 197,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 197,
+      "size": 37,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 234,
+      "size": 41,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 275,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 237,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 206,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 201,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 197,
+      "size": 5,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 202,
+      "size": 124,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 326,
+      "size": 2,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 328,
+      "size": 81,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 409,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 193,
+      "size": 11,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 204,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 204,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 200,
+      "size": 10,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 210,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 203,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 199,
+      "size": 12,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 211,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 202,
+      "size": 6,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 208,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 199,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 191,
+      "size": 83,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".debug_str",
+      "name": "(size",
+      "address": 274,
+      "size": 38,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 312,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 312,
+      "size": 60,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 372,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 204,
+      "size": 216,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 420,
+      "size": 840,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 1260,
+      "size": 912,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 2172,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 960,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 84,
+      "size": 36,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 120,
+      "size": 216,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 336,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 180,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 36,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 12,
+      "size": 48,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 60,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 60,
+      "size": 192,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 252,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 60,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 60,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.prop",
+      "name": "(size",
+      "address": 60,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.lit",
+      "name": "(size",
+      "address": 8,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.lit",
+      "name": "(size",
+      "address": 8,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.lit",
+      "name": "(size",
+      "address": 8,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".xt.lit",
+      "name": "(size",
+      "address": 8,
+      "size": 33,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "(size",
+      "address": 41,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    },
+    {
+      "section": ".comment",
+      "name": "0x0",
+      "address": 0,
+      "size": 0,
+      "symbol_type": "variable"
+    }
+  ]
+}
